@@ -1,6 +1,9 @@
 # Prediticting-Heart-Disease-using-Machine-Learning-Web-Application-
 
 
+Find the Kaggle dataset here: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+
 1. Dataset Description: 
 
 This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 13 features including the output feature labeled as “target”. There are a total of 1025 rows. Since this is a labeled dataset, it is a classification supervised dataset. Among the 13 features there are 5 numerical features, 7 categorical features and 1 output feature. The description of the dataset is given below:
