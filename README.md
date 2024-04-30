@@ -1,4 +1,4 @@
-# Prediticting-Heart-Disease-using-Machine-Learning-Web-Application-
+# Predicting-Heart-Disease-using-Machine-Learning-Web-Application-
 
 
 Find the Kaggle dataset here: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
